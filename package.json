@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@builder.io/sdk": "^2.1.1",
+    "errno-extend": "^0.0.3"
+  }
+}
